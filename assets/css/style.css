@@ -6,3 +6,8 @@ h1{
 h1{
   grid-template-columns: rgba(255, 0, 0,);
 }
+
+.img_block {
+  display: block;
+  margin-bottom: 20px;
+}
